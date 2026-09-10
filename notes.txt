@@ -1,0 +1,1 @@
+Components - Components is a small section of code that can include javascript and html , function will return that code and make it reusable .
