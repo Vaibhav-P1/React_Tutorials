@@ -2,3 +2,6 @@ Components - Components is a small section of code that can include javascript a
 
 Padding - Space b/w elements and border
 margin - space outside border
+
+npm create vite@latest my-react-app-2
+npm install prop-types
